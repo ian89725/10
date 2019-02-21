@@ -3,3 +3,37 @@ owasp top 10(2017.2013年版)
 漏洞掃描
 滲透測試
 WAE
+
+OWASP Top 10
+
+A1:2017-Injection
+漏洞說明:
+網頁注入(Web Injection)分為四種網頁注入攻擊，這些攻擊可以透過多種方式執行，防護方案的複雜性也增加了防禦的困難度。
+
+1.SQL注入（SQL Injection, SQLi)
+
+2.命令注入（Command Injection）
+3.XML外部實體注入（XML External Entity Injection, XXE）
+4.跨站腳本（Cross Site Scripting, XSS）
+測試工具:
+
+測試案例:
+
+A2:2017-Broken Authentication
+
+A3:2017-Sensitive Data Exposure
+
+A4:2017-XML External Entities (XXE)
+
+A5:2017-Broken Access Control
+
+A6:2017-Security Misconfiguration
+
+A7:2017-Cross-Site Scripting (XSS)
+
+A8:2017-Insecure Deserialization
+
+A9:2017-Using Components with Known Vulnerabilities
+
+A10:2017-Insufficient Logging&Monitoring
+
